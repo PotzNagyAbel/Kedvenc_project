@@ -1,0 +1,41 @@
+body{
+    background-image: url("img/grass-football-lawn-green-background-wallpapers-model.jpg");
+    
+    
+}
+header{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    color: black;
+}
+#banner{
+    width: 100%;
+    height: 280px;
+    background-position: center;
+    background-size: cover;
+}
+div{
+    color:white ;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  p{
+      text-indent: 10px;
+  }
+  li{
+      text-indent: 20px;
+  }
+  img{
+      border-radius: 15%;
+  }
+  footer{
+    text-align: center;
+    background-color: white;
+    color: black;
+}
